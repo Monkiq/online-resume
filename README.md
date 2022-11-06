@@ -1,7 +1,7 @@
 # online-resume
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://monkiq.github.io/online-resume/monkiq-Resume.pdf">
+<object data="https://monkiq.github.io/online-resume/monkiq_Resume.pdf" type="application/pdf" width="1000px" height="1800px">
+    <embed src="https://monkiq.github.io/online-resume/monkiq_Resume.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
